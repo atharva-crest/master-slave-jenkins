@@ -1,1 +1,1 @@
-# master-slave-jenkins
+# master slave implementation using jenkins
